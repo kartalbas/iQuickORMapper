@@ -1,0 +1,788 @@
+Tsqltest
+v7
+r0
+t306429772.970345
+cCheck dependencies
+cProcessPCH /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch.gch sqltest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_TEST.o /Users/kartalbas/Documents/xcode/iORMapper/iQuickORMapper_TEST.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_Sqlite3.o /Users/kartalbas/Documents/xcode/iORMapper/iQuickORMapper_Sqlite3.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_adresses.o /Users/kartalbas/Documents/xcode/iORMapper/Entity_adresses.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_offeneposten.o /Users/kartalbas/Documents/xcode/iORMapper/Entity_offeneposten.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_aggregates.o /Users/kartalbas/Documents/xcode/iORMapper/Entity_aggregates.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_easyaggregate.o /Users/kartalbas/Documents/xcode/iORMapper/Entity_easyaggregate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_groups.o /Users/kartalbas/Documents/xcode/iORMapper/Entity_groups.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/HelperString.o /Users/kartalbas/Documents/xcode/iORMapper/HelperString.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kartalbas/Documents/xcode/iORMapper/build/Debug/sqltest normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h
+c000000004B90C7FE0000000000000E8B
+t1267779582
+s3723
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/message.h
+c000000004B90C7FE0000000000001B54
+t1267779582
+s6996
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/objc-class.h
+c000000004B90C7FE0000000000000032
+t1267779582
+s50
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/objc-runtime.h
+c000000004B90C7FE0000000000000032
+t1267779582
+s50
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/runtime.h
+c000000004B90C7FE000000000000530A
+t1267779582
+s21258
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sql.h
+c000000004A8CFB730000000000007ADF
+t1250753395
+s31455
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sqlite3.h
+c000000004B90CDD1000000000003D86F
+t1267781073
+s252015
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/libsqlite3.0.dylib
+c000000004BF47016000000000000CB64
+t1274310678
+s52068
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/libsqlite3.dylib
+c000000004BF47016000000000000CB64
+t1274310678
+s52068
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C11730A0000000000B37440
+t1276211978
+s11760704
+
+N/Users/kartalbas/Documents/xcode/iORMapper/Entity.h
+c000000004C5DE60A0000000000000088
+t1281222154
+s136
+
+N/Users/kartalbas/Documents/xcode/iORMapper/Entity.m
+c000000004C5DE60A000000000000009D
+t1281222154
+s157
+i"Entity.h"
+
+N/Users/kartalbas/Documents/xcode/iORMapper/EntityAdress.c
+c000000004C5626BC00000000000000E0
+t1280714428
+s224
+i<stdio.h>
+i"EntityAdress.h"
+
+N/Users/kartalbas/Documents/xcode/iORMapper/EntityAdress.h
+c000000004C6DEB16000000000000041A
+t1282272022
+s1050
+i<objc/Object.h>
+
+N/Users/kartalbas/Documents/xcode/iORMapper/EntityAdress.m
+c000000004C6DEB2F00000000000002D9
+t1282272047
+s729
+i<stdio.h>
+i"EntityAdress.h"
+
+N/Users/kartalbas/Documents/xcode/iORMapper/EntityAdresses.m
+c000000004C6DEB2F00000000000002D9
+t1282272047
+s729
+i<stdio.h>
+i"EntityAdress.h"
+
+N/Users/kartalbas/Documents/xcode/iORMapper/Entity_adresses.h
+c000000004C7A88840000000000000434
+t1283098756
+s1076
+i<objc/Object.h>
+
+N/Users/kartalbas/Documents/xcode/iORMapper/Entity_adresses.m
+c000000004C7A888400000000000003DD
+t1283098756
+s989
+i<stdio.h>
+i"Entity_adresses.h"
+
+N/Users/kartalbas/Documents/xcode/iORMapper/Entity_aggregates.h
+c000000004C8157E70000000000000278
+t1283545063
+s632
+i<Cocoa/Cocoa.h>
+
+N/Users/kartalbas/Documents/xcode/iORMapper/Entity_aggregates.m
+c000000004C8157CA000000000000021C
+t1283545034
+s540
+i"Entity_aggregates.h"
+
+N/Users/kartalbas/Documents/xcode/iORMapper/Entity_agregates.h
+c000000004C810DED000000000000019B
+t1283526125
+s411
+i<Cocoa/Cocoa.h>
+
+N/Users/kartalbas/Documents/xcode/iORMapper/Entity_agregates.m
+c000000004C810DEE00000000000001BB
+t1283526126
+s443
+i"Entity_agregates.h"
+
+N/Users/kartalbas/Documents/xcode/iORMapper/Entity_easyaggregate.h
+c000000004C815A4100000000000001AA
+t1283545665
+s426
+i<Cocoa/Cocoa.h>
+
+N/Users/kartalbas/Documents/xcode/iORMapper/Entity_easyaggregate.m
+c000000004C815A4200000000000001CB
+t1283545666
+s459
+i"Entity_easyaggregate.h"
+
+N/Users/kartalbas/Documents/xcode/iORMapper/Entity_groups.h
+c000000004C832AC80000000000000218
+t1283664584
+s536
+i<Cocoa/Cocoa.h>
+
+N/Users/kartalbas/Documents/xcode/iORMapper/Entity_groups.m
+c000000004C82D94D00000000000001E0
+t1283643725
+s480
+i"Entity_groups.h"
+
+N/Users/kartalbas/Documents/xcode/iORMapper/Entity_offeneposten.h
+c000000004C814CB90000000000000736
+t1283542201
+s1846
+i<Cocoa/Cocoa.h>
+
+N/Users/kartalbas/Documents/xcode/iORMapper/Entity_offeneposten.m
+c000000004C7A9337000000000000040A
+t1283101495
+s1034
+i"Entity_offeneposten.h"
+
+N/Users/kartalbas/Documents/xcode/iORMapper/HelperString.h
+c000000004C82D2080000000000000175
+t1283641864
+s373
+i<Cocoa/Cocoa.h>
+
+N/Users/kartalbas/Documents/xcode/iORMapper/HelperString.m
+c000000004C82D207000000000000028A
+t1283641863
+s650
+i"HelperString.h"
+
+N/Users/kartalbas/Documents/xcode/iORMapper/SQL.h
+c000000004C93871400000000000004DF
+t1284736788
+s1247
+i<objc/Object.h>
+i<sqlite3.h>
+
+N/Users/kartalbas/Documents/xcode/iORMapper/SQLSqlite3.m
+c000000004C93871E0000000000004442
+t1284736798
+s17474
+i<objc/objc-class.h>
+i<objc/runtime.h>
+i<objc/message.h>
+i<stdio.h>
+i"SQL.h"
+i"Entity_adresses.h"
+i"HelperString.h"
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/Debug/sqltest
+t1284736972
+s78344
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity.o
+t2
+s0
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/EntityAdress.o
+t1282272044
+s29512
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/EntityAdresses.o
+t2
+s0
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_adresses.o
+t1283098757
+s31476
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_aggregates.o
+t1283545063
+s15980
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_agregates.o
+t1283526126
+s12204
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_easyaggregate.o
+t1283545666
+s12400
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_groups.o
+t1283664584
+s16484
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_offeneposten.o
+t1283542201
+s42100
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/HelperString.o
+t1283641864
+s7188
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/SQLSqlite3.o
+t2
+s0
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/SQLSqlite3.s
+t1281280191
+s86237
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_Sqlite3.o
+t1284736908
+s45804
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_TEST.o
+t1284736972
+s10120
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/sqltest.LinkFileList
+c000000004C9387CC00000000000003E9
+t1284736972
+s1001
+
+N/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/sqltest.o
+t1284736924
+s10096
+
+N/Users/kartalbas/Documents/xcode/iORMapper/iQuickORMapper.h
+c000000004C93878B00000000000004EA
+t1284736907
+s1258
+i<objc/Object.h>
+i<sqlite3.h>
+
+N/Users/kartalbas/Documents/xcode/iORMapper/iQuickORMapper_Sqlite3.m
+c000000004C93876A000000000000444D
+t1284736874
+s17485
+i<objc/objc-class.h>
+i<objc/runtime.h>
+i<objc/message.h>
+i<stdio.h>
+i"iQuickORMapper.h"
+i"Entity_adresses.h"
+i"HelperString.h"
+
+N/Users/kartalbas/Documents/xcode/iORMapper/iQuickORMapper_TEST.m
+c000000004C9387C600000000000012BF
+t1284736966
+s4799
+i<Foundation/Foundation.h>
+i"Entity_adresses.h"
+i"Entity_offeneposten.h"
+i"Entity_aggregates.h"
+i"Entity_easyaggregate.h"
+i"Entity_groups.h"
+i"iQuickORMapper.h"
+
+N/Users/kartalbas/Documents/xcode/iORMapper/sqltest.m
+c000000004C93879B000000000000127D
+t1284736923
+s4733
+i<Foundation/Foundation.h>
+i"Entity_adresses.h"
+i"Entity_offeneposten.h"
+i"Entity_aggregates.h"
+i"Entity_easyaggregate.h"
+i"Entity_groups.h"
+i"iQuickORMapper.h"
+
+N/Users/kartalbas/Documents/xcode/iORMapper/sqltest_Prefix.pch
+c000000004C091D06000000000000009C
+t1275665670
+s156
+i<Foundation/Foundation.h>
+
+N/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c
+c000000004C5626BC00000000000000E0
+t1280714428
+s224
+i<stdio.h>
+i"EntityAdress.h"
+
+N/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h
+c000000004C5636BD0000000000000146
+t1280718525
+s326
+
+N/Users/kartalbas/Documents/xcode/sqltest/SQL.h
+c000000004C562476000000000000015C
+t1280713846
+s348
+i<objc/Object.h>
+i<sqlite3.h>
+
+N/Users/kartalbas/Documents/xcode/sqltest/SQLSqlite3.h
+c000000004C0934F200000000000000CE
+t1275671794
+s206
+i<Cocoa/Cocoa.h>
+
+N/Users/kartalbas/Documents/xcode/sqltest/SQLSqlite3.m
+c000000004C56D1DB0000000000000577
+t1280758235
+s1399
+i<stdio.h>
+i"SQL.h"
+
+N/Users/kartalbas/Documents/xcode/sqltest/build/Debug/sqltest
+t1280713846
+s14872
+
+N/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/EntityAdress.o
+t2
+s0
+
+N/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/SQLSqlite3.o
+t1280713846
+s10612
+
+N/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/sqltest.LinkFileList
+c000000004C562579000000000000015B
+t1280714105
+s347
+
+N/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/sqltest.o
+t1280718525
+s7784
+
+N/Users/kartalbas/Documents/xcode/sqltest/sqltest.m
+c000000004C5626E9000000000000017C
+t1280714473
+s380
+i<Foundation/Foundation.h>
+i"EntityAdress.h"
+i"SQL.h"
+
+N/Users/kartalbas/Documents/xcode/sqltest/sqltest_Prefix.pch
+c000000004C091D06000000000000009C
+t1275665670
+s156
+i<Foundation/Foundation.h>
+
+N/var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-bjrsdevwrqadnfdjodbmgotpujrj/sqltest_Prefix.pch.gch
+t1275666414
+s41405200
+
+N/var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-ehntvjokevziljfmvpsezsbdhzlh/sqltest_Prefix.pch.gch
+t1280708848
+s41401104
+
+N/var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-fchwlwxvwjlvztcvkarihszhrujp/sqltest_Prefix.pch.gch
+t1280714105
+s2195824
+
+N/var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch.gch
+t1282272315
+s41401104
+
+N/var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-hgcfksvnmhrstfhcewviovywrgjq/sqltest_Prefix.pch.gch
+t2
+s0
+
+C<C0006:'CompileC SQLSqlite3.o':P8:W0>
+s302972991.686930
+e302972991.829542
+r1
+xCompileC
+xbuild/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/SQLSqlite3.o
+x/Users/kartalbas/Documents/xcode/iORMapper/SQLSqlite3.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/kartalbas/Documents/xcode/iORMapper/SQLSqlite3.m302972991#302972991#0(0"0(0#0#55"/Users/kartalbas/Documents/xcode/iORMapper/SQLSqlite3.m3401403401131030528#1506"    cd /Users/kartalbas/Documents/xcode/iORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch -S /Users/kartalbas/Documents/xcode/iORMapper/SQLSqlite3.m -o /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/SQLSqlite3.s0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306429772#306429772#0(0"0(0#1#0"8617797600#0"0#
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity.o /Users/kartalbas/Documents/xcode/iORMapper/Entity.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/EntityAdress.o /Users/kartalbas/Documents/xcode/iORMapper/EntityAdress.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/EntityAdress.o /Users/kartalbas/Documents/xcode/iORMapper/EntityAdress.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303964844.321099
+e303964844.440059
+r1
+xCompileC
+xbuild/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/EntityAdress.o
+x/Users/kartalbas/Documents/xcode/iORMapper/EntityAdress.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/kartalbas/Documents/xcode/iORMapper/EntityAdress.m303964844#303964844#0(0"0(0#0#57"/Users/kartalbas/Documents/xcode/iORMapper/EntityAdress.m8623688128#1510"    cd /Users/kartalbas/Documents/xcode/iORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iORMapper/EntityAdress.m -o /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/EntityAdress.o0#
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/EntityAdress.o /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c normal x86_64 c com.apple.compilers.gcc.4_2
+s302411325.770047
+e302411325.815614
+r0
+xCompileC
+xbuild/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/EntityAdress.o
+x/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h:10,
+o                 from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c:11:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:52: error: expected identifier or '(' before '@' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:59: error: expected identifier or '(' before '+' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:60: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:64: error: expected identifier or '(' before '+' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:65: error: expected identifier or '(' before '+' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:66: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:67: error: expected identifier or '(' before '+' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:68: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:69: error: expected identifier or '(' before '+' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:70: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:71: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:75: error: expected identifier or '(' before '+' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:76: error: expected identifier or '(' before '+' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:77: error: expected identifier or '(' before '+' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:78: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:79: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:80: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:84: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:85: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:86: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:90: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:91: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:92: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:93: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:97: error: expected identifier or '(' before '+' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:98: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:102: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:103: error: expected identifier or '(' before '+' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:107: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:108: error: expected identifier or '(' before '+' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:112: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:113: error: expected identifier or '(' before '+' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:117: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:118: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:119: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:123: error: expected identifier or '(' before '+' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:127: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:128: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:132: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:133: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:137: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:141: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:142: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:143: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:144: error: expected identifier or '(' before '+' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:145: error: expected identifier or '(' before '+' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:149: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:150: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:152: error: expected identifier or '(' before '@' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:159: error: expected identifier or '(' before '-' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:161: error: expected identifier or '(' before '@' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:169: error: expected identifier or '(' before '+' token
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:171: error: expected identifier or '(' before '@' token
+oIn file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c:11:
+o/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h:22: error: expected identifier or '(' before '@' token
+lSLF07#2@63"Compile /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#302411325#0(6320"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h:10,                 from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c:11:/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:52: error: expected identifier or '(' before '@' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:59: error: expected identifier or '(' before '+' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:60: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:64: error: expected identifier or '(' before '+' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:65: error: expected identifier or '(' before '+' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:66: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:67: error: expected identifier or '(' before '+' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:68: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:69: error: expected identifier or '(' before '+' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:70: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:71: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:75: error: expected identifier or '(' before '+' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:76: error: expected identifier or '(' before '+' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:77: error: expected identifier or '(' before '+' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:78: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:79: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:80: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:84: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:85: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:86: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:90: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:91: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:92: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:93: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:97: error: expected identifier or '(' before '+' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:98: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:102: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:103: error: expected identifier or '(' before '+' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:107: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:108: error: expected identifier or '(' before '+' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:112: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:113: error: expected identifier or '(' before '+' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:117: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:118: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:119: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:123: error: expected identifier or '(' before '+' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:127: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:128: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:132: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:133: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:137: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:141: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:142: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:143: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:144: error: expected identifier or '(' before '+' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:145: error: expected identifier or '(' before '+' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:149: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:150: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:152: error: expected identifier or '(' before '@' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:159: error: expected identifier or '(' before '-' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:161: error: expected identifier or '(' before '@' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:169: error: expected identifier or '(' before '+' token/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h:171: error: expected identifier or '(' before '@' tokenIn file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c:11:/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h:22: error: expected identifier or '(' before '@' token54(4@43"Expected identifier or '(' before '@' token302411325#164#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '@' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#52#0#52#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#52#0#52#0#19"expected * before *0(4@43"Expected identifier or '(' before '+' token302411325#276#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '+' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#59#0#59#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#59#0#59#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#388#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#60#0#60#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#60#0#60#0#19"expected * before *0(4@43"Expected identifier or '(' before '+' token302411325#500#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '+' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#64#0#64#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#64#0#64#0#19"expected * before *0(4@43"Expected identifier or '(' before '+' token302411325#612#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '+' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#65#0#65#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#65#0#65#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#724#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#66#0#66#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#66#0#66#0#19"expected * before *0(4@43"Expected identifier or '(' before '+' token302411325#836#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '+' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#67#0#67#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#67#0#67#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#948#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#68#0#68#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#68#0#68#0#19"expected * before *0(4@43"Expected identifier or '(' before '+' token302411325#1060#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '+' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#69#0#69#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#69#0#69#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#1172#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#70#0#70#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#70#0#70#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#1284#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#71#0#71#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#71#0#71#0#19"expected * before *0(4@43"Expected identifier or '(' before '+' token302411325#1396#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '+' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#75#0#75#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#75#0#75#0#19"expected * before *0(4@43"Expected identifier or '(' before '+' token302411325#1508#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '+' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#76#0#76#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#76#0#76#0#19"expected * before *0(4@43"Expected identifier or '(' before '+' token302411325#1620#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '+' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#77#0#77#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#77#0#77#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#1732#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#78#0#78#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#78#0#78#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#1844#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#79#0#79#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#79#0#79#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#1956#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#80#0#80#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#80#0#80#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#2068#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#84#0#84#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#84#0#84#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#2180#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#85#0#85#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#85#0#85#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#2292#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#86#0#86#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#86#0#86#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#2404#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#90#0#90#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#90#0#90#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#2516#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#91#0#91#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#91#0#91#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#2628#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#92#0#92#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#92#0#92#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#2740#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#93#0#93#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#93#0#93#0#19"expected * before *0(4@43"Expected identifier or '(' before '+' token302411325#2852#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '+' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#97#0#97#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#97#0#97#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#2964#112#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#98#0#98#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#98#0#98#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#3076#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#102#0#102#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#102#0#102#0#19"expected * before *0(4@43"Expected identifier or '(' before '+' token302411325#3189#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '+' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#103#0#103#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#103#0#103#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#3302#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#107#0#107#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#107#0#107#0#19"expected * before *0(4@43"Expected identifier or '(' before '+' token302411325#3415#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '+' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#108#0#108#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#108#0#108#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#3528#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#112#0#112#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#112#0#112#0#19"expected * before *0(4@43"Expected identifier or '(' before '+' token302411325#3641#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '+' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#113#0#113#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#113#0#113#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#3754#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#117#0#117#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#117#0#117#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#3867#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#118#0#118#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#118#0#118#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#3980#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#119#0#119#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#119#0#119#0#19"expected * before *0(4@43"Expected identifier or '(' before '+' token302411325#4093#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '+' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#123#0#123#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#123#0#123#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#4206#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#127#0#127#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#127#0#127#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#4319#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#128#0#128#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#128#0#128#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#4432#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#132#0#132#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#132#0#132#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#4545#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#133#0#133#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#133#0#133#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#4658#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#137#0#137#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#137#0#137#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#4771#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#141#0#141#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#141#0#141#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#4884#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#142#0#142#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#142#0#142#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#4997#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#143#0#143#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#143#0#143#0#19"expected * before *0(4@43"Expected identifier or '(' before '+' token302411325#5110#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '+' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#144#0#144#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#144#0#144#0#19"expected * before *0(4@43"Expected identifier or '(' before '+' token302411325#5223#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '+' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#145#0#145#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#145#0#145#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#5336#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#149#0#149#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#149#0#149#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#5449#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#150#0#150#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#150#0#150#0#19"expected * before *0(4@43"Expected identifier or '(' before '@' token302411325#5562#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '@' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#152#0#152#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#152#0#152#0#19"expected * before *0(4@43"Expected identifier or '(' before '-' token302411325#5675#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '-' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#159#0#159#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#159#0#159#0#19"expected * before *0(4@43"Expected identifier or '(' before '@' token302411325#5788#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '@' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#161#0#161#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#161#0#161#0#19"expected * before *0(4@43"Expected identifier or '(' before '+' token302411325#5901#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '+' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#169#0#169#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#169#0#169#0#19"expected * before *0(4@43"Expected identifier or '(' before '@' token302411325#6014#113#3(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#10#0#10#0#0"0(13@103"Expected identifier or '(' before '@' token in /Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h302411325#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#171#0#171#0#0"0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h289472382#171#0#171#0#19"expected * before *0(4@43"Expected identifier or '(' before '@' token302411325#6209#111#2(7@77"In file included from /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c302407228#11#0#11#0#0"0(13@102"Expected identifier or '(' before '@' token in /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#22#0#22#0#0"0(6@55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.h302411325#22#0#22#0#19"expected * before *0(0#0#55"/Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c8619860960#1478"    cd /Users/kartalbas/Documents/xcode/sqltest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/sqltest/build/Debug -I/Users/kartalbas/Documents/xcode/sqltest/build/Debug/include -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-fchwlwxvwjlvztcvkarihszhrujp/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/sqltest/EntityAdress.c -o /Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/EntityAdress.o1#
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/EntityAdresses.o /Users/kartalbas/Documents/xcode/iORMapper/EntityAdresses.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_adresses.o /Users/kartalbas/Documents/xcode/iORMapper/Entity_adresses.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s304791557.102048
+e304791557.249826
+r1
+xCompileC
+xbuild/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_adresses.o
+x/Users/kartalbas/Documents/xcode/iORMapper/Entity_adresses.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/kartalbas/Documents/xcode/iORMapper/Entity_adresses.m304791557#304791557#0(0"0(0#0#60"/Users/kartalbas/Documents/xcode/iORMapper/Entity_adresses.m8606578656#1516"    cd /Users/kartalbas/Documents/xcode/iORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iORMapper/Entity_adresses.m -o /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_adresses.o0#
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_aggregates.o /Users/kartalbas/Documents/xcode/iORMapper/Entity_aggregates.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s305237863.336285
+e305237863.603951
+r1
+xCompileC
+xbuild/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_aggregates.o
+x/Users/kartalbas/Documents/xcode/iORMapper/Entity_aggregates.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/kartalbas/Documents/xcode/iORMapper/Entity_aggregates.m305237863#305237863#0(0"0(0#0#62"/Users/kartalbas/Documents/xcode/iORMapper/Entity_aggregates.m8620591072#1520"    cd /Users/kartalbas/Documents/xcode/iORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iORMapper/Entity_aggregates.m -o /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_aggregates.o0#
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_agregates.o /Users/kartalbas/Documents/xcode/iORMapper/Entity_agregates.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s305218926.633138
+e305218926.917453
+r1
+xCompileC
+xbuild/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_agregates.o
+x/Users/kartalbas/Documents/xcode/iORMapper/Entity_agregates.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/kartalbas/Documents/xcode/iORMapper/Entity_agregates.m305218926#305218926#0(0"0(0#0#61"/Users/kartalbas/Documents/xcode/iORMapper/Entity_agregates.m8618198304#1518"    cd /Users/kartalbas/Documents/xcode/iORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iORMapper/Entity_agregates.m -o /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_agregates.o0#
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_easyaggregate.o /Users/kartalbas/Documents/xcode/iORMapper/Entity_easyaggregate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s305238466.541120
+e305238466.800307
+r1
+xCompileC
+xbuild/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_easyaggregate.o
+x/Users/kartalbas/Documents/xcode/iORMapper/Entity_easyaggregate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/kartalbas/Documents/xcode/iORMapper/Entity_easyaggregate.m305238466#305238466#0(0"0(0#0#65"/Users/kartalbas/Documents/xcode/iORMapper/Entity_easyaggregate.m8619969088#1526"    cd /Users/kartalbas/Documents/xcode/iORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iORMapper/Entity_easyaggregate.m -o /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_easyaggregate.o0#
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_groups.o /Users/kartalbas/Documents/xcode/iORMapper/Entity_groups.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s305357384.492333
+e305357384.801329
+r1
+xCompileC
+xbuild/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_groups.o
+x/Users/kartalbas/Documents/xcode/iORMapper/Entity_groups.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/kartalbas/Documents/xcode/iORMapper/Entity_groups.m305357384#305357384#0(0"0(0#0#58"/Users/kartalbas/Documents/xcode/iORMapper/Entity_groups.m8615473184#1512"    cd /Users/kartalbas/Documents/xcode/iORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iORMapper/Entity_groups.m -o /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_groups.o0#
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_offeneposten.o /Users/kartalbas/Documents/xcode/iORMapper/Entity_offeneposten.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s305235001.475008
+e305235001.841279
+r1
+xCompileC
+xbuild/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_offeneposten.o
+x/Users/kartalbas/Documents/xcode/iORMapper/Entity_offeneposten.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/kartalbas/Documents/xcode/iORMapper/Entity_offeneposten.m305235001#305235001#0(0"0(0#0#64"/Users/kartalbas/Documents/xcode/iORMapper/Entity_offeneposten.m8619769888#1524"    cd /Users/kartalbas/Documents/xcode/iORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iORMapper/Entity_offeneposten.m -o /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_offeneposten.o0#
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/HelperString.o /Users/kartalbas/Documents/xcode/iORMapper/HelperString.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s305334664.256970
+e305334664.617235
+r1
+xCompileC
+xbuild/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/HelperString.o
+x/Users/kartalbas/Documents/xcode/iORMapper/HelperString.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/kartalbas/Documents/xcode/iORMapper/HelperString.m305334664#305334664#0(0"0(0#0#57"/Users/kartalbas/Documents/xcode/iORMapper/HelperString.m8616096640#1510"    cd /Users/kartalbas/Documents/xcode/iORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iORMapper/HelperString.m -o /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/HelperString.o0#
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/SQLSqlite3.o /Users/kartalbas/Documents/xcode/iORMapper/SQLSqlite3.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306429598.667938
+e306429598.711894
+r0
+xCompileC
+xbuild/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/SQLSqlite3.o
+x/Users/kartalbas/Documents/xcode/iORMapper/SQLSqlite3.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/kartalbas/Documents/xcode/iORMapper/SQLSqlite3.m:20:
+o/Users/kartalbas/Documents/xcode/iORMapper/SQL.h:50: error: cannot find interface declaration for 'SQL'
+lSLF07#2@63"Compile /Users/kartalbas/Documents/xcode/iORMapper/SQLSqlite3.m306429598#306429598#0(186"In file included from /Users/kartalbas/Documents/xcode/iORMapper/SQLSqlite3.m:20:/Users/kartalbas/Documents/xcode/iORMapper/SQL.h:50: error: cannot find interface declaration for 'SQL'1(4@43"Cannot find interface declaration for 'SQL'306429598#82#104#2(7@77"In file included from /Users/kartalbas/Documents/xcode/iORMapper/SQLSqlite3.m306429598#18446744073709551615#0#0(6@55"/Users/kartalbas/Documents/xcode/iORMapper/SQLSqlite3.m306429598#20#0#20#0#0"0(13@95"Cannot find interface declaration for 'SQL' in /Users/kartalbas/Documents/xcode/iORMapper/SQL.h306429598#18446744073709551615#0#0(6@48"/Users/kartalbas/Documents/xcode/iORMapper/SQL.h306429588#50#0#50#0#0"0(6@48"/Users/kartalbas/Documents/xcode/iORMapper/SQL.h306429588#50#0#50#0#0"0(0#0#55"/Users/kartalbas/Documents/xcode/iORMapper/SQLSqlite3.m8616298528#1506"    cd /Users/kartalbas/Documents/xcode/iORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iORMapper/SQLSqlite3.m -o /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/SQLSqlite3.o1#
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/SQLSqlite3.o /Users/kartalbas/Documents/xcode/sqltest/SQLSqlite3.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s302406646.711566
+e302406646.948216
+r1
+xCompileC
+xbuild/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/SQLSqlite3.o
+x/Users/kartalbas/Documents/xcode/sqltest/SQLSqlite3.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/kartalbas/Documents/xcode/sqltest/SQLSqlite3.m302406646#302406646#0(0"0(0#0#53"/Users/kartalbas/Documents/xcode/sqltest/SQLSqlite3.m8605416224#1484"    cd /Users/kartalbas/Documents/xcode/sqltest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/sqltest/build/Debug -I/Users/kartalbas/Documents/xcode/sqltest/build/Debug/include -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-ehntvjokevziljfmvpsezsbdhzlh/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/sqltest/SQLSqlite3.m -o /Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/SQLSqlite3.o0#
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_Sqlite3.o /Users/kartalbas/Documents/xcode/iORMapper/iQuickORMapper_Sqlite3.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306429708.616788
+e306429708.975895
+r1
+xCompileC
+xbuild/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_Sqlite3.o
+x/Users/kartalbas/Documents/xcode/iORMapper/iQuickORMapper_Sqlite3.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/kartalbas/Documents/xcode/iORMapper/iQuickORMapper_Sqlite3.m306429708#306429708#0(0"0(0#0#67"/Users/kartalbas/Documents/xcode/iORMapper/iQuickORMapper_Sqlite3.m8621846240#1530"    cd /Users/kartalbas/Documents/xcode/iORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iORMapper/iQuickORMapper_Sqlite3.m -o /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_Sqlite3.o0#
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_TEST.o /Users/kartalbas/Documents/xcode/iORMapper/iQuickORMapper_TEST.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306429772.727407
+e306429772.951000
+r1
+xCompileC
+xbuild/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_TEST.o
+x/Users/kartalbas/Documents/xcode/iORMapper/iQuickORMapper_TEST.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/kartalbas/Documents/xcode/iORMapper/iQuickORMapper_TEST.m306429772#306429772#0(0"0(0#0#64"/Users/kartalbas/Documents/xcode/iORMapper/iQuickORMapper_TEST.m8622197376#1524"    cd /Users/kartalbas/Documents/xcode/iORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iORMapper/iQuickORMapper_TEST.m -o /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_TEST.o0#
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/sqltest.o /Users/kartalbas/Documents/xcode/iORMapper/sqltest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306429724.060808
+e306429724.293855
+r1
+xCompileC
+xbuild/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/sqltest.o
+x/Users/kartalbas/Documents/xcode/iORMapper/sqltest.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/kartalbas/Documents/xcode/iORMapper/sqltest.m306429724#306429724#0(0"0(0#0#52"/Users/kartalbas/Documents/xcode/iORMapper/sqltest.m8621470112#1500"    cd /Users/kartalbas/Documents/xcode/iORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iORMapper/sqltest.m -o /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/sqltest.o0#
+
+CCompileC build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/sqltest.o /Users/kartalbas/Documents/xcode/sqltest/sqltest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s302411325.769295
+e302411325.914696
+r1
+xCompileC
+xbuild/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/sqltest.o
+x/Users/kartalbas/Documents/xcode/sqltest/sqltest.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/kartalbas/Documents/xcode/sqltest/sqltest.m302411325#302411325#0(0"0(0#0#50"/Users/kartalbas/Documents/xcode/sqltest/sqltest.m8615614752#1478"    cd /Users/kartalbas/Documents/xcode/sqltest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/sqltest/build/Debug -I/Users/kartalbas/Documents/xcode/sqltest/build/Debug/include -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-ehntvjokevziljfmvpsezsbdhzlh/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/sqltest/sqltest.m -o /Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/sqltest.o0#
+
+CLd /Users/kartalbas/Documents/xcode/iORMapper/build/Debug/sqltest normal x86_64
+s306429772.951091
+e306429772.970295
+r1
+xLd
+x/Users/kartalbas/Documents/xcode/iORMapper/build/Debug/sqltest
+xnormal
+xx86_64
+lSLF07#2@67"Link /Users/kartalbas/Documents/xcode/iORMapper/build/Debug/sqltest306429772#306429772#0(0"0(0#0#0"8621567584#550"    cd /Users/kartalbas/Documents/xcode/iORMapper    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kartalbas/Documents/xcode/iORMapper/build/Debug -F/Users/kartalbas/Documents/xcode/iORMapper/build/Debug -filelist /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/sqltest.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -lsqlite3 -o /Users/kartalbas/Documents/xcode/iORMapper/build/Debug/sqltest0#
+
+CLd /Users/kartalbas/Documents/xcode/sqltest/build/Debug/sqltest normal x86_64
+s302406646.948268
+e302406646.963239
+r1
+xLd
+x/Users/kartalbas/Documents/xcode/sqltest/build/Debug/sqltest
+xnormal
+xx86_64
+lSLF07#2@65"Link /Users/kartalbas/Documents/xcode/sqltest/build/Debug/sqltest302406646#302406646#0(0"0(0#0#0"8619444928#542"    cd /Users/kartalbas/Documents/xcode/sqltest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kartalbas/Documents/xcode/sqltest/build/Debug -F/Users/kartalbas/Documents/xcode/sqltest/build/Debug -filelist /Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/Objects-normal/x86_64/sqltest.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -lsqlite3.0 -o /Users/kartalbas/Documents/xcode/sqltest/build/Debug/sqltest0#
+
+CProcessPCH /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-bjrsdevwrqadnfdjodbmgotpujrj/sqltest_Prefix.pch.gch sqltest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s297359212.168337
+e297359214.189942
+r1
+xProcessPCH
+x/var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-bjrsdevwrqadnfdjodbmgotpujrj/sqltest_Prefix.pch.gch
+xsqltest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile sqltest_Prefix.pch297359212#297359214#0(0"0(0#0#59"/Users/kartalbas/Documents/xcode/sqltest/sqltest_Prefix.pch8174929921494574080#1376"    cd /Users/kartalbas/Documents/xcode/sqltest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/sqltest/build/Debug -I/Users/kartalbas/Documents/xcode/sqltest/build/Debug/include -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/DerivedSources -c /Users/kartalbas/Documents/xcode/sqltest/sqltest_Prefix.pch -o /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-bjrsdevwrqadnfdjodbmgotpujrj/sqltest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-ehntvjokevziljfmvpsezsbdhzlh/sqltest_Prefix.pch.gch sqltest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s302401646.345086
+e302401648.443275
+r1
+xProcessPCH
+x/var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-ehntvjokevziljfmvpsezsbdhzlh/sqltest_Prefix.pch.gch
+xsqltest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile sqltest_Prefix.pch302401646#302401648#0(0"0(0#0#59"/Users/kartalbas/Documents/xcode/sqltest/sqltest_Prefix.pch8237188672217510912#1376"    cd /Users/kartalbas/Documents/xcode/sqltest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/sqltest/build/Debug -I/Users/kartalbas/Documents/xcode/sqltest/build/Debug/include -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/DerivedSources -c /Users/kartalbas/Documents/xcode/sqltest/sqltest_Prefix.pch -o /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-ehntvjokevziljfmvpsezsbdhzlh/sqltest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-fchwlwxvwjlvztcvkarihszhrujp/sqltest_Prefix.pch.gch sqltest_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+s302406905.594643
+e302406905.655035
+r1
+xProcessPCH
+x/var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-fchwlwxvwjlvztcvkarihszhrujp/sqltest_Prefix.pch.gch
+xsqltest_Prefix.pch
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile sqltest_Prefix.pch302406905#302406905#0(0"0(0#0#59"/Users/kartalbas/Documents/xcode/sqltest/sqltest_Prefix.pch8619673472#1366"    cd /Users/kartalbas/Documents/xcode/sqltest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/sqltest/build/Debug -I/Users/kartalbas/Documents/xcode/sqltest/build/Debug/include -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/sqltest/build/sqltest.build/Debug/sqltest.build/DerivedSources -c /Users/kartalbas/Documents/xcode/sqltest/sqltest_Prefix.pch -o /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-fchwlwxvwjlvztcvkarihszhrujp/sqltest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch.gch sqltest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303965113.589396
+e303965115.826890
+r1
+xProcessPCH
+x/var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch.gch
+xsqltest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile sqltest_Prefix.pch303965113#303965115#0(0"0(0#0#61"/Users/kartalbas/Documents/xcode/iORMapper/sqltest_Prefix.pch8616755136#1396"    cd /Users/kartalbas/Documents/xcode/iORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iORMapper/build/sqltest.build/Debug/sqltest.build/DerivedSources -c /Users/kartalbas/Documents/xcode/iORMapper/sqltest_Prefix.pch -o /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-heegycxvqtfxdabubbrqkmtqxqpw/sqltest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-hgcfksvnmhrstfhcewviovywrgjq/sqltest_Prefix.pch.gch sqltest_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+

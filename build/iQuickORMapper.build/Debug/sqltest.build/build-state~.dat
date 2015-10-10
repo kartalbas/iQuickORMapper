@@ -1,0 +1,357 @@
+Tsqltest
+v7
+r0
+t306429837.535828
+cCheck dependencies
+cProcessPCH /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-avobhubxutqslydgdzhyvtjlrtvg/sqltest_Prefix.pch.gch sqltest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_TEST.o /Users/kartalbas/Documents/xcode/iQuickORMapper/iQuickORMapper_TEST.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_Sqlite3.o /Users/kartalbas/Documents/xcode/iQuickORMapper/iQuickORMapper_Sqlite3.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_adresses.o /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_adresses.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_offeneposten.o /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_offeneposten.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_aggregates.o /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_aggregates.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_easyaggregate.o /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_easyaggregate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_groups.o /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_groups.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/HelperString.o /Users/kartalbas/Documents/xcode/iQuickORMapper/HelperString.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug/sqltest normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h
+c000000004B90C7FE0000000000000E8B
+t1267779582
+s3723
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/message.h
+c000000004B90C7FE0000000000001B54
+t1267779582
+s6996
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/objc-class.h
+c000000004B90C7FE0000000000000032
+t1267779582
+s50
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/runtime.h
+c000000004B90C7FE000000000000530A
+t1267779582
+s21258
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sqlite3.h
+c000000004B90CDD1000000000003D86F
+t1267781073
+s252015
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/libsqlite3.dylib
+c000000004BF47016000000000000CB64
+t1274310678
+s52068
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C11730A0000000000B37440
+t1276211978
+s11760704
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_adresses.h
+c000000004C7A88840000000000000434
+t1283098756
+s1076
+i<objc/Object.h>
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_adresses.m
+c000000004C7A888400000000000003DD
+t1283098756
+s989
+i<stdio.h>
+i"Entity_adresses.h"
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_aggregates.h
+c000000004C8157E70000000000000278
+t1283545063
+s632
+i<Cocoa/Cocoa.h>
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_aggregates.m
+c000000004C8157CA000000000000021C
+t1283545034
+s540
+i"Entity_aggregates.h"
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_easyaggregate.h
+c000000004C815A4100000000000001AA
+t1283545665
+s426
+i<Cocoa/Cocoa.h>
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_easyaggregate.m
+c000000004C815A4200000000000001CB
+t1283545666
+s459
+i"Entity_easyaggregate.h"
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_groups.h
+c000000004C832AC80000000000000218
+t1283664584
+s536
+i<Cocoa/Cocoa.h>
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_groups.m
+c000000004C82D94D00000000000001E0
+t1283643725
+s480
+i"Entity_groups.h"
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_offeneposten.h
+c000000004C814CB90000000000000736
+t1283542201
+s1846
+i<Cocoa/Cocoa.h>
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_offeneposten.m
+c000000004C7A9337000000000000040A
+t1283101495
+s1034
+i"Entity_offeneposten.h"
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/HelperString.h
+c000000004C82D2080000000000000175
+t1283641864
+s373
+i<Cocoa/Cocoa.h>
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/HelperString.m
+c000000004C82D207000000000000028A
+t1283641863
+s650
+i"HelperString.h"
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug/sqltest
+t1284737037
+s78480
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_adresses.o
+t1284737036
+s31492
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_aggregates.o
+t1284737036
+s15988
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_easyaggregate.o
+t1284737037
+s12408
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_groups.o
+t1284737037
+s16500
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_offeneposten.o
+t1284737036
+s42108
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/HelperString.o
+t1284737037
+s7204
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_Sqlite3.o
+t1284737036
+s45812
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_TEST.o
+t1284737036
+s10128
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/sqltest.LinkFileList
+c000000004C93880A0000000000000449
+t1284737034
+s1097
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/iQuickORMapper.h
+c000000004C93878B00000000000004EA
+t1284736907
+s1258
+i<objc/Object.h>
+i<sqlite3.h>
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/iQuickORMapper_Sqlite3.m
+c000000004C93876A000000000000444D
+t1284736874
+s17485
+i<objc/objc-class.h>
+i<objc/runtime.h>
+i<objc/message.h>
+i<stdio.h>
+i"iQuickORMapper.h"
+i"Entity_adresses.h"
+i"HelperString.h"
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/iQuickORMapper_TEST.m
+c000000004C9387C600000000000012BF
+t1284736966
+s4799
+i<Foundation/Foundation.h>
+i"Entity_adresses.h"
+i"Entity_offeneposten.h"
+i"Entity_aggregates.h"
+i"Entity_easyaggregate.h"
+i"Entity_groups.h"
+i"iQuickORMapper.h"
+
+N/Users/kartalbas/Documents/xcode/iQuickORMapper/sqltest_Prefix.pch
+c000000004C091D06000000000000009C
+t1275665670
+s156
+i<Foundation/Foundation.h>
+
+N/var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-avobhubxutqslydgdzhyvtjlrtvg/sqltest_Prefix.pch.gch
+t1284737036
+s41401104
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306429834#306429834#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_adresses.o /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_adresses.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306429836.560272
+e306429836.727091
+r1
+xCompileC
+xbuild/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_adresses.o
+x/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_adresses.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_adresses.m306429836#306429836#0(0"0(0#0#65"/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_adresses.m8600153344#1620"    cd /Users/kartalbas/Documents/xcode/iQuickORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-avobhubxutqslydgdzhyvtjlrtvg/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_adresses.m -o /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_adresses.o0#
+
+CCompileC build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_aggregates.o /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_aggregates.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306429836.727177
+e306429836.990403
+r1
+xCompileC
+xbuild/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_aggregates.o
+x/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_aggregates.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_aggregates.m306429836#306429836#0(0"0(0#0#67"/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_aggregates.m8603672192#1624"    cd /Users/kartalbas/Documents/xcode/iQuickORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-avobhubxutqslydgdzhyvtjlrtvg/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_aggregates.m -o /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_aggregates.o0#
+
+CCompileC build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_easyaggregate.o /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_easyaggregate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306429836.930876
+e306429837.273226
+r1
+xCompileC
+xbuild/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_easyaggregate.o
+x/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_easyaggregate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_easyaggregate.m306429836#306429837#0(0"0(0#0#70"/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_easyaggregate.m8603476000#1630"    cd /Users/kartalbas/Documents/xcode/iQuickORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-avobhubxutqslydgdzhyvtjlrtvg/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_easyaggregate.m -o /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_easyaggregate.o0#
+
+CCompileC build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_groups.o /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_groups.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306429836.990495
+e306429837.262300
+r1
+xCompileC
+xbuild/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_groups.o
+x/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_groups.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_groups.m306429836#306429837#0(0"0(0#0#63"/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_groups.m8603343584#1616"    cd /Users/kartalbas/Documents/xcode/iQuickORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-avobhubxutqslydgdzhyvtjlrtvg/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_groups.m -o /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_groups.o0#
+
+CCompileC build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_offeneposten.o /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_offeneposten.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306429836.628136
+e306429836.930786
+r1
+xCompileC
+xbuild/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_offeneposten.o
+x/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_offeneposten.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_offeneposten.m306429836#306429836#0(0"0(0#0#69"/Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_offeneposten.m8603106208#1628"    cd /Users/kartalbas/Documents/xcode/iQuickORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-avobhubxutqslydgdzhyvtjlrtvg/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iQuickORMapper/Entity_offeneposten.m -o /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/Entity_offeneposten.o0#
+
+CCompileC build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/HelperString.o /Users/kartalbas/Documents/xcode/iQuickORMapper/HelperString.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306429837.262386
+e306429837.514152
+r1
+xCompileC
+xbuild/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/HelperString.o
+x/Users/kartalbas/Documents/xcode/iQuickORMapper/HelperString.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/kartalbas/Documents/xcode/iQuickORMapper/HelperString.m306429837#306429837#0(0"0(0#0#62"/Users/kartalbas/Documents/xcode/iQuickORMapper/HelperString.m8602561472#1614"    cd /Users/kartalbas/Documents/xcode/iQuickORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-avobhubxutqslydgdzhyvtjlrtvg/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iQuickORMapper/HelperString.m -o /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/HelperString.o0#
+
+CCompileC build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_Sqlite3.o /Users/kartalbas/Documents/xcode/iQuickORMapper/iQuickORMapper_Sqlite3.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306429836.292533
+e306429836.627947
+r1
+xCompileC
+xbuild/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_Sqlite3.o
+x/Users/kartalbas/Documents/xcode/iQuickORMapper/iQuickORMapper_Sqlite3.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/kartalbas/Documents/xcode/iQuickORMapper/iQuickORMapper_Sqlite3.m306429836#306429836#0(0"0(0#0#72"/Users/kartalbas/Documents/xcode/iQuickORMapper/iQuickORMapper_Sqlite3.m8603060384#1634"    cd /Users/kartalbas/Documents/xcode/iQuickORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-avobhubxutqslydgdzhyvtjlrtvg/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iQuickORMapper/iQuickORMapper_Sqlite3.m -o /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_Sqlite3.o0#
+
+CCompileC build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_TEST.o /Users/kartalbas/Documents/xcode/iQuickORMapper/iQuickORMapper_TEST.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306429836.291800
+e306429836.560186
+r1
+xCompileC
+xbuild/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_TEST.o
+x/Users/kartalbas/Documents/xcode/iQuickORMapper/iQuickORMapper_TEST.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/kartalbas/Documents/xcode/iQuickORMapper/iQuickORMapper_TEST.m306429836#306429836#0(0"0(0#0#69"/Users/kartalbas/Documents/xcode/iQuickORMapper/iQuickORMapper_TEST.m3417213339966598656#1628"    cd /Users/kartalbas/Documents/xcode/iQuickORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources -include /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-avobhubxutqslydgdzhyvtjlrtvg/sqltest_Prefix.pch -c /Users/kartalbas/Documents/xcode/iQuickORMapper/iQuickORMapper_TEST.m -o /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/iQuickORMapper_TEST.o0#
+
+CLd /Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug/sqltest normal x86_64
+s306429837.514230
+e306429837.535784
+r1
+xLd
+x/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug/sqltest
+xnormal
+xx86_64
+lSLF07#2@72"Link /Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug/sqltest306429837#306429837#0(0"0(0#0#0"8603790976#582"    cd /Users/kartalbas/Documents/xcode/iQuickORMapper    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug -F/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug -filelist /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/Objects-normal/x86_64/sqltest.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -lsqlite3 -o /Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug/sqltest0#
+
+CProcessPCH /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-avobhubxutqslydgdzhyvtjlrtvg/sqltest_Prefix.pch.gch sqltest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306429834.452940
+e306429836.291532
+r1
+xProcessPCH
+x/var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-avobhubxutqslydgdzhyvtjlrtvg/sqltest_Prefix.pch.gch
+xsqltest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile sqltest_Prefix.pch306429834#306429836#0(0"0(0#0#66"/Users/kartalbas/Documents/xcode/iQuickORMapper/sqltest_Prefix.pch8237188672217510912#1488"    cd /Users/kartalbas/Documents/xcode/iQuickORMapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-generated-files.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-own-target-headers.hmap -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-all-target-headers.hmap -iquote /Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/sqltest-project-headers.hmap -F/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/Debug/include -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources/x86_64 -I/Users/kartalbas/Documents/xcode/iQuickORMapper/build/iQuickORMapper.build/Debug/sqltest.build/DerivedSources -c /Users/kartalbas/Documents/xcode/iQuickORMapper/sqltest_Prefix.pch -o /var/folders/F9/F9HaDfyXFiik3Qys5TqxRU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqltest_Prefix-avobhubxutqslydgdzhyvtjlrtvg/sqltest_Prefix.pch.gch0#
+
